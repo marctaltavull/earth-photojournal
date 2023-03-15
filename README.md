@@ -4,7 +4,7 @@
 Earth-Photojournal is a post viewer that scraps data from a NASA's Earth Photojournal rss and shows it in a simple way.
 I used this project for two main resons:
 * Learn a bit about Ruby On Rails
-* As a tecnical part to apply for a job offer.
+* As a technical part to apply for a job offer.
 
 ## Ruby on Rails
 * Ruby v3.1.2
